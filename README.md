@@ -3,10 +3,10 @@
 <h3>I'm passionate about solving problems by programming. Acting in several areas here in Brazil 🇧🇷.</h3>
 
 - 🔭 I’m currently working as Cloud Developer on **Beyond Company**
-- 🌱 I’m currently learning **Vue.js & Vuetify** with [@lapprand](github.com/lapprand)
+- 🌱 I’m currently learning **Vue.js & Vuetify** with [@lapprand](https://github.com/lapprand)
 - 💬 Ask me about **Node.js, Javascript, PhP, Java, Linux, ChatBots, SQL, Photoshop, Vegas Pro, Hardware etc.**
 - 📫 How to reach me: contato@davimoura.com.br
-- 📄 Know about my experiences in my [website](davimoura.com.br)
+- 📄 Know about my experiences in my [website](https://davimoura.com.br)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
