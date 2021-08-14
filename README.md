@@ -1,19 +1,62 @@
 
-<h1>Hi 👋, I'm Davi Moura</h1>
-<h3>I'm passionate about solving problems by programming. Acting in several areas here in Brazil 🇧🇷.</h3>
 
-- 🔭 I’m currently working as Cloud Developer on **Beyond Company**
+# Hi, i'm Davi Moura. 
+
+- 🔭 I’m currently working as Cloud Developer at [Beyond Company](https://beyondcompany.com.br)
 - 🌱 I’m currently learning **Vue.js & Vuetify** with [@lapprand](https://github.com/lapprand)
-- 💬 Ask me about **Node.js, Javascript, PhP, Java, Linux, ChatBots, SQL, Photoshop, Vegas Pro, Hardware etc.**
 - 📫 How to reach me: contato@davimoura.com.br
-- 📄 Know about my experiences in my [website](https://davimoura.com.br)
+- 📄 Know about my experiences in my [website](https://davimoura.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/davi-moura-03b2871b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davi-moura-03b2871b5" height="30" width="40" /></a>
-<a href="https://instagram.com/_davidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_davidev" height="30" width="40" /></a>
-<a href="https://discord.gg/Davi Moura#8080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Davi Moura#5642" height="30" width="40" /></a>
+### Connect with me:
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white])](https://instagram.com/_davidev)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white])](https://t.me.com/davimoura)
+[![Website](https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white])](https://davimoura.com.br)
+
+### Favorites
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black])
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white])
+![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black])
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white])
+![PhP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white])
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white])
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white])
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white])
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D])
+![GCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white])
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white])
+![Java](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white])
+
+### My Setup
+<blockquote>
+  <ul>
+    <li><em>Manjaro Gnome</em></li>
+    <li><em>B450M Steel Legend</em></li>
+    <li><em>Ryzen 7 2700</em></li>
+    <li><em>T-force Delta RGB 16 GB</em></li>
+    <li><em>Redragon Blazar</em></li>
+    <li><em>Generic GPU (HD 6570)</em></li>
+  </ul>
+</blockquote>
+
+<details>
+  <summary> <b> Some stats </b> <i>(Click to expand)</i> </summary>
+  <br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaviSMoura&show_icons=true&count_private=true&theme=radical&hide=issues" />
+  </a>
+  
+---
+  
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=DaviSMoura" alt="Trophies" />
+    </a>
+  </p>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSMoura&layout=compact&langs_count=999&theme=radical" alt="Langs" />
 </p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davismoura&show_icons=true&locale=en&layout=compact" alt="davismoura" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=davismoura&show_icons=true&count_private=true&locale=en" alt="davismoura" />
+<hr>
+</details>
