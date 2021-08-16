@@ -9,7 +9,7 @@
 
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/-Instagram-2CA5E0?style=for-the-badge&logoColor=fff&logo=instagram])](https://instagram.com/_davidev)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logoColor=fff&logo=telegram])](https://t.me.com/davimoura)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logoColor=fff&logo=telegram])](https://t.me/davimoura)
 [![Website](https://img.shields.io/badge/-Website-2CA5E0?style=for-the-badge&logoColor=fff&logo=Google-chrome])](https://davimoura.com.br)
 
 ### My Setup
