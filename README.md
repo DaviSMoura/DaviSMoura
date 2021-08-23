@@ -20,7 +20,7 @@
     <li><em>Ryzen 7 2700</em></li>
     <li><em>T-force Delta RGB 16 GB</em></li>
     <li><em>Redragon Blazar</em></li>
-    <li><em>Generic GPU (HD 6570)</em></li>
+    <li><em>RTX 2060 OC(Galax)</em></li>
   </ul>
 </blockquote>
 
