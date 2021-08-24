@@ -1,6 +1,6 @@
 
 
-# Hi, i'm Davi Moura. 
+# Hi, I'm Davi Moura. 
 
 - 🔭 I’m currently working as Cloud Developer at [Beyond Company](https://beyondcompany.com.br)
 - 🌱 I’m currently learning **Vue.js & Vuetify** with [@lapprand](https://github.com/lapprand)
@@ -20,7 +20,7 @@
     <li><em>Ryzen 7 2700</em></li>
     <li><em>T-force Delta RGB 16 GB</em></li>
     <li><em>Redragon Blazar</em></li>
-    <li><em>RTX 2060 OC(Galax)</em></li>
+    <li><em>RTX 2060 OC (Galax)</em></li>
   </ul>
 </blockquote>
 
