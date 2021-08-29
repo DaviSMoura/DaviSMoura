@@ -15,7 +15,7 @@
 ### My Setup
 <blockquote>
   <ul>
-    <li><em>Manjaro Gnome</em></li>
+    <li><em>Windows 11</em></li>
     <li><em>B450M Steel Legend</em></li>
     <li><em>Ryzen 7 2700</em></li>
     <li><em>T-force Delta RGB 16 GB</em></li>
