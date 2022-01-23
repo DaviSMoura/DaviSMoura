@@ -22,6 +22,17 @@
     <li><em>Redragon Blazar</em></li>
     <li><em>RTX 2060 OC (Galax)</em></li>
   </ul>
+  <ul>
+    <li><em>iPad 8th gen</em></li>
+    <li><em>A12 Bionic 64bits</em></li>
+    <li><em>iPad OS 15</em></li>
+  </ul>
+  <ul>
+    <li><em>Macbook Pro 2021</em></li>
+    <li><em>M1 Pro</em></li>
+    <li><em>1 TB SSD</em></li>
+    <li><em>16 GB RAM</em></li>
+  </ul>
 </blockquote>
 
 <details>
