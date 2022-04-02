@@ -3,7 +3,7 @@
 # Hi, I'm Davi Moura. 
 
 - 🔭 I’m currently working as Cloud Developer at [Beyond Company](https://beyondcompany.com.br)
-- 🌱 I’m currently learning **Vue.js & Vuetify** with [@lapprand](https://github.com/lapprand)
+- 🌱 I’m currently learning **Vue.js & Vuetify**
 - 📫 How to reach me: contato@davimoura.com.br
 - 📄 Know about my experiences in my [website](https://davimoura.com)
 
@@ -18,7 +18,7 @@
     <li><em>Windows 11</em></li>
     <li><em>B450M Steel Legend</em></li>
     <li><em>Ryzen 7 2700</em></li>
-    <li><em>T-force Delta RGB 16 GB</em></li>
+    <li><em>T-force Delta RGB 32 GB (4x8)</em></li>
     <li><em>Redragon Blazar</em></li>
     <li><em>RTX 2060 OC (Galax)</em></li>
   </ul>
@@ -32,6 +32,7 @@
     <li><em>M1 Pro</em></li>
     <li><em>1 TB SSD</em></li>
     <li><em>16 GB RAM</em></li>
+    <li><em>+ 4TB Seagate Expansion</em></li>
   </ul>
 </blockquote>
 
