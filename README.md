@@ -2,7 +2,7 @@
 
 # Hi, I'm Davi Moura. 
 
-- 🔭 I’m currently working as Plain Cloud Developer at [Beyond Company](https://beyondcompany.com.br)
+- 🔭 I’m currently working as Cloud Developer at [Beyond Company](https://beyondcompany.com.br)
 - 📫 How to reach me: hello@davimoura.com.br
 - 📄 Know about my experiences in my [website](https://links.davimoura.dev)
 
